@@ -13,3 +13,6 @@ Free : yes, open source
 Free : yes, open source
 https://cesiumjs.org
 ```
+#### JS : JAVASCRIPT
+> Certificates
+> * https://www.vskills.in/certification/web-development/certified-angular-js-developer
